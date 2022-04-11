@@ -4,6 +4,9 @@
 		"*.php": "php",
 		"stdbool.h": "c",
 		"facturacion.h": "c",
-		"stdio.h": "c"
+		"stdio.h": "c",
+		"stdlib.h": "c",
+		"funciones.h": "c",
+		"math.h": "c"
 	}
 }
